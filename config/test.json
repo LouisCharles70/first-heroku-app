@@ -1,0 +1,9 @@
+{
+  "name": "My First Express App - TEST",
+  "mail": {
+    "host": "dev-mail-server",
+    "password":  "mail_password"
+  },
+  "jwtPrivateKey": "1234",
+  "db": "mongodb://root:example@127.0.0.1:27017/mongo-exercises_test"
+}
