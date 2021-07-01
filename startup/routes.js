@@ -27,3 +27,9 @@ module.exports = function(app) {
    app.use('/api/auth', auth);
    app.use(errorMiddleware);
 }
+
+
+// Db user:
+
+// user: user
+// password: HCCGPiMELaUBHJEn

@@ -1,4 +1,5 @@
 {
   "name": "My First Express App",
-  "jwtPrivateKey": "app_jwtPrivateKey"
+  "jwtPrivateKey": "app_jwtPrivateKey",
+  "db": "app_db"
 }
